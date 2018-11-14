@@ -1,6 +1,8 @@
 # email-ex
 
-> Nuxt.js project
+> This is version 0.0.1.
+> You can send email using server middleware.
+> I will fix others bug and some not critical errors.
 
 ## Build Setup
 
