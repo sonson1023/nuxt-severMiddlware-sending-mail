@@ -12,7 +12,7 @@ $ npm install # Or yarn install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
-$ if you want to debug in vscode, use 'npm run dev-debug'.
+# if you want to debug in vscode, use 'npm run dev-debug'.
 
 
 # build for production and launch server
